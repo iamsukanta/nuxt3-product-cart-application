@@ -10,7 +10,9 @@
         </ul>
       </nav>
     </header>
-    <slot />
+    <div>
+      <slot />
+    </div>
   </div>
 </template>
 
